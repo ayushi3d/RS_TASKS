@@ -1,2 +1,1 @@
-# project
-
+Python & NumPy assignments

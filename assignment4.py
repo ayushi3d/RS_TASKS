@@ -1,0 +1,13 @@
+import numpy as np
+a=np.array([1,2,3])
+b=np.array([4,5,6])
+print("\nARRAY a:",a)
+print("\nARRAY b:",b)
+print("\naddition:",a+b)
+print("\nsubtraction:",a-b)
+print("\nmultiplication:",a*b)
+print("\ndivision:",a/b)
+print("power:",a**3)
+print("\nsquare:",a**2)
+print("\nmean:",np.mean(a))
+print("\nmean:",np.mean(b))
