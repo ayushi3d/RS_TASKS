@@ -16,6 +16,9 @@ elif choice == 2:
 elif choice == 3:
     print("Multiplication =", a* b)
 elif choice == 4:
-    print("Division =", a / b)
+    if b!=0:
+       print("Division =", a / b)
+     else:
+       print("zero division error:")
 else:
     print("Choice not available")
